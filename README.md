@@ -7,7 +7,8 @@ switches back when you enter insert mode again. It consists of 2 tiny programs:
 * `im-select`: a command-line utility to get/set active input method
 * `smartim.vim`: a vim plugin to do automatic input method switch, using `im-select`
 
-It is Mac-only for now.
+~~It is Mac-only for now.~~
+It is for Windows and Mac now.
 
 # Installation
 
